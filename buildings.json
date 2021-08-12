@@ -1,0 +1,956 @@
+{
+  "489928": {
+    "search_url": "https://novosibirsk.n1.ru/search/?addresses%5B0%5D%5Bstreet_id%5D=864292&addresses%5B0%5D%5Bhouse_number%5D=125%2F1&deal_type=sell",
+    "year": 2007,
+    "address": "Выборная, 125/1",
+    "lon": "82.9346",
+    "lat": "55.0415",
+    "flats": {
+      "73884226": {
+        "url": "https://novosibirsk.n1.ru/view/73884226/",
+        "area": 50.0,
+        "apartment_floor": 5,
+        "max_floor": 10,
+        "material": "Кирпич",
+        "price": 5000000
+      },
+      "72923306": {
+        "url": "https://novosibirsk.n1.ru/view/72923306/",
+        "area": 70.0,
+        "apartment_floor": 3,
+        "max_floor": 10,
+        "material": "Кирпич",
+        "price": 7000000
+      },
+      "73902314": {
+        "url": "https://novosibirsk.n1.ru/view/73902314/",
+        "area": 50.0,
+        "apartment_floor": 8,
+        "max_floor": 10,
+        "material": "Кирпич",
+        "price": 4550000
+      },
+      "73594125": {
+        "url": "https://novosibirsk.n1.ru/view/73594125/",
+        "area": 71.0,
+        "apartment_floor": 10,
+        "max_floor": 10,
+        "material": "Кирпич",
+        "price": 6950000
+      }
+    }
+  },
+  "341549": {
+    "search_url": "https://novosibirsk.n1.ru/search/?addresses%5B0%5D%5Bstreet_id%5D=865348&addresses%5B0%5D%5Bhouse_number%5D=1&deal_type=sell",
+    "year": 2020,
+    "address": "Стартовая, 1",
+    "lon": "82.9346",
+    "lat": "55.0415",
+    "flats": {
+      "73143254": {
+        "url": "https://novosibirsk.n1.ru/view/73143254/",
+        "area": 70.0,
+        "apartment_floor": 16,
+        "max_floor": 18,
+        "material": "Кирпич - монолит",
+        "price": 9950000
+      },
+      "73870698": {
+        "url": "https://novosibirsk.n1.ru/view/73870698/",
+        "area": 36.0,
+        "apartment_floor": 13,
+        "max_floor": 17,
+        "material": "Кирпич - монолит",
+        "price": 3960000
+      },
+      "73838688": {
+        "url": "https://novosibirsk.n1.ru/view/73838688/",
+        "area": 86.0,
+        "apartment_floor": 4,
+        "max_floor": 17,
+        "material": "Кирпич - монолит",
+        "price": 9200000
+      },
+      "73727748": {
+        "url": "https://novosibirsk.n1.ru/view/73727748/",
+        "area": 80.0,
+        "apartment_floor": 1,
+        "max_floor": 17,
+        "material": "Кирпич",
+        "price": 6700000
+      },
+      "73688480": {
+        "url": "https://novosibirsk.n1.ru/view/73688480/",
+        "area": 85.0,
+        "apartment_floor": 7,
+        "max_floor": 18,
+        "material": "Кирпич - монолит",
+        "price": 9390000
+      },
+      "73862323": {
+        "url": "https://novosibirsk.n1.ru/view/73862323/",
+        "area": 43.0,
+        "apartment_floor": 9,
+        "max_floor": 17,
+        "material": "Кирпич",
+        "price": 4700000
+      },
+      "73683928": {
+        "url": "https://novosibirsk.n1.ru/view/73683928/",
+        "area": 41.0,
+        "apartment_floor": 2,
+        "max_floor": 15,
+        "material": "Монолит",
+        "price": 4100000
+      },
+      "72721377": {
+        "url": "https://novosibirsk.n1.ru/view/72721377/",
+        "area": 84.0,
+        "apartment_floor": 2,
+        "max_floor": 15,
+        "material": "Кирпич",
+        "price": 7470000
+      },
+      "71174680": {
+        "url": "https://novosibirsk.n1.ru/view/71174680/",
+        "area": 99.0,
+        "apartment_floor": 18,
+        "max_floor": 19,
+        "material": "Кирпич",
+        "price": 8969000
+      },
+      "73261918": {
+        "url": "https://novosibirsk.n1.ru/view/73261918/",
+        "area": 44.0,
+        "apartment_floor": 3,
+        "max_floor": 17,
+        "material": "Кирпич",
+        "price": 4800000
+      },
+      "73861563": {
+        "url": "https://novosibirsk.n1.ru/view/73861563/",
+        "area": 37.0,
+        "apartment_floor": 19,
+        "max_floor": 19,
+        "material": "Кирпич - монолит",
+        "price": 4100000
+      },
+      "73900200": {
+        "url": "https://novosibirsk.n1.ru/view/73900200/",
+        "area": 44.0,
+        "apartment_floor": 8,
+        "max_floor": 19,
+        "material": "Кирпич - монолит",
+        "price": 5100000
+      },
+      "72912050": {
+        "url": "https://novosibirsk.n1.ru/view/72912050/",
+        "area": 44.0,
+        "apartment_floor": 6,
+        "max_floor": 19,
+        "material": "Кирпич - монолит",
+        "price": 5100000
+      },
+      "72544556": {
+        "url": "https://novosibirsk.n1.ru/view/72544556/",
+        "area": 36.0,
+        "apartment_floor": 12,
+        "max_floor": 19,
+        "material": "Кирпич",
+        "price": 3980000
+      },
+      "72308655": {
+        "url": "https://novosibirsk.n1.ru/view/72308655/",
+        "area": 38.0,
+        "apartment_floor": 14,
+        "max_floor": 16,
+        "material": "Кирпич - монолит",
+        "price": 4000000
+      },
+      "71384346": {
+        "url": "https://novosibirsk.n1.ru/view/71384346/",
+        "area": 34.0,
+        "apartment_floor": 4,
+        "max_floor": 19,
+        "material": "Кирпич",
+        "price": 3750000
+      },
+      "72967993": {
+        "url": "https://novosibirsk.n1.ru/view/72967993/",
+        "area": 33.0,
+        "apartment_floor": 10,
+        "max_floor": 17,
+        "material": "Кирпич - монолит",
+        "price": 3900000
+      },
+      "73793215": {
+        "url": "https://novosibirsk.n1.ru/view/73793215/",
+        "area": 98.0,
+        "apartment_floor": 3,
+        "max_floor": 18,
+        "material": "Кирпич",
+        "price": 9200000
+      },
+      "73884530": {
+        "url": "https://novosibirsk.n1.ru/view/73884530/",
+        "area": 68.0,
+        "apartment_floor": 9,
+        "max_floor": 18,
+        "material": "Кирпич",
+        "price": 7500000
+      },
+      "73041565": {
+        "url": "https://novosibirsk.n1.ru/view/73041565/",
+        "area": 48.0,
+        "apartment_floor": 9,
+        "max_floor": 18,
+        "material": "Кирпич",
+        "price": 5500000
+      },
+      "73678466": {
+        "url": "https://novosibirsk.n1.ru/view/73678466/",
+        "area": 81.0,
+        "apartment_floor": 11,
+        "max_floor": 18,
+        "material": "Кирпич",
+        "price": 7500000
+      },
+      "73678418": {
+        "url": "https://novosibirsk.n1.ru/view/73678418/",
+        "area": 99.0,
+        "apartment_floor": 18,
+        "max_floor": 19,
+        "material": "Кирпич",
+        "price": 8700000
+      },
+      "73616811": {
+        "url": "https://novosibirsk.n1.ru/view/73616811/",
+        "area": 45.0,
+        "apartment_floor": 6,
+        "max_floor": 15,
+        "material": "Кирпич",
+        "price": 5100000
+      },
+      "73867430": {
+        "url": "https://novosibirsk.n1.ru/view/73867430/",
+        "area": 48.0,
+        "apartment_floor": 4,
+        "max_floor": 18,
+        "material": "Кирпич",
+        "price": 5670000
+      },
+      "73758577": {
+        "url": "https://novosibirsk.n1.ru/view/73758577/",
+        "area": 23.0,
+        "apartment_floor": 5,
+        "max_floor": 18,
+        "material": "Кирпич",
+        "price": 3500000
+      },
+      "73224086": {
+        "url": "https://novosibirsk.n1.ru/view/73224086/",
+        "area": 108.0,
+        "apartment_floor": 10,
+        "max_floor": 18,
+        "material": "Кирпич",
+        "price": 8300000
+      },
+      "73049549": {
+        "url": "https://novosibirsk.n1.ru/view/73049549/",
+        "area": 37.0,
+        "apartment_floor": 14,
+        "max_floor": 18,
+        "material": "Кирпич",
+        "price": 3980000
+      },
+      "73853745": {
+        "url": "https://novosibirsk.n1.ru/view/73853745/",
+        "area": 29.0,
+        "apartment_floor": 14,
+        "max_floor": 18,
+        "material": "Кирпич",
+        "price": 4200000
+      },
+      "73750603": {
+        "url": "https://novosibirsk.n1.ru/view/73750603/",
+        "area": 32.0,
+        "apartment_floor": 15,
+        "max_floor": 17,
+        "material": "Кирпич - монолит",
+        "price": 4500000
+      },
+      "73899935": {
+        "url": "https://novosibirsk.n1.ru/view/73899935/",
+        "area": 90.0,
+        "apartment_floor": 12,
+        "max_floor": 18,
+        "material": "Кирпич",
+        "price": 17950000
+      },
+      "73796489": {
+        "url": "https://novosibirsk.n1.ru/view/73796489/",
+        "area": 81.0,
+        "apartment_floor": 12,
+        "max_floor": 15,
+        "material": "Кирпич",
+        "price": 8536000
+      },
+      "73191630": {
+        "url": "https://novosibirsk.n1.ru/view/73191630/",
+        "area": 84.0,
+        "apartment_floor": 2,
+        "max_floor": 17,
+        "material": "Кирпич",
+        "price": 7470000
+      },
+      "73785581": {
+        "url": "https://novosibirsk.n1.ru/view/73785581/",
+        "area": 107.0,
+        "apartment_floor": 4,
+        "max_floor": 18,
+        "material": "Кирпич",
+        "price": 7500000
+      },
+      "73828503": {
+        "url": "https://novosibirsk.n1.ru/view/73828503/",
+        "area": 110.0,
+        "apartment_floor": 6,
+        "max_floor": 19,
+        "material": "Кирпич",
+        "price": 13500000
+      },
+      "73840758": {
+        "url": "https://novosibirsk.n1.ru/view/73840758/",
+        "area": 38.0,
+        "apartment_floor": 2,
+        "max_floor": 17,
+        "material": "Кирпич",
+        "price": 4060000
+      },
+      "73771464": {
+        "url": "https://novosibirsk.n1.ru/view/73771464/",
+        "area": 69.0,
+        "apartment_floor": 9,
+        "max_floor": 18,
+        "material": "Кирпич",
+        "price": 7850000
+      },
+      "73771459": {
+        "url": "https://novosibirsk.n1.ru/view/73771459/",
+        "area": 65.0,
+        "apartment_floor": 7,
+        "max_floor": 18,
+        "material": "Кирпич",
+        "price": 7350000
+      },
+      "73741445": {
+        "url": "https://novosibirsk.n1.ru/view/73741445/",
+        "area": 67.0,
+        "apartment_floor": 7,
+        "max_floor": 17,
+        "material": "Кирпич - монолит",
+        "price": 7349000
+      },
+      "73895574": {
+        "url": "https://novosibirsk.n1.ru/view/73895574/",
+        "area": 33.0,
+        "apartment_floor": 10,
+        "max_floor": 18,
+        "material": "Кирпич - монолит",
+        "price": 3900000
+      },
+      "73788999": {
+        "url": "https://novosibirsk.n1.ru/view/73788999/",
+        "area": 68.0,
+        "apartment_floor": 9,
+        "max_floor": 18,
+        "material": "Кирпич - монолит",
+        "price": 7840000
+      },
+      "73632105": {
+        "url": "https://novosibirsk.n1.ru/view/73632105/",
+        "area": 36.0,
+        "apartment_floor": 13,
+        "max_floor": 15,
+        "material": "Кирпич - монолит",
+        "price": 3960000
+      },
+      "72853229": {
+        "url": "https://novosibirsk.n1.ru/view/72853229/",
+        "area": 23.0,
+        "apartment_floor": 10,
+        "max_floor": 18,
+        "material": "Кирпич - монолит",
+        "price": 3200000
+      },
+      "73836830": {
+        "url": "https://novosibirsk.n1.ru/view/73836830/",
+        "area": 35.0,
+        "apartment_floor": 12,
+        "max_floor": 18,
+        "material": "Кирпич - монолит",
+        "price": 4000000
+      },
+      "73835882": {
+        "url": "https://novosibirsk.n1.ru/view/73835882/",
+        "area": 81.0,
+        "apartment_floor": 12,
+        "max_floor": 17,
+        "material": "Кирпич",
+        "price": 8300000
+      },
+      "73700655": {
+        "url": "https://novosibirsk.n1.ru/view/73700655/",
+        "area": 113.0,
+        "apartment_floor": 4,
+        "max_floor": 18,
+        "material": "Кирпич",
+        "price": 9830000
+      },
+      "73865991": {
+        "url": "https://novosibirsk.n1.ru/view/73865991/",
+        "area": 43.0,
+        "apartment_floor": 3,
+        "max_floor": 17,
+        "material": "Кирпич - монолит",
+        "price": 4750000
+      },
+      "73744074": {
+        "url": "https://novosibirsk.n1.ru/view/73744074/",
+        "area": 65.0,
+        "apartment_floor": 2,
+        "max_floor": 17,
+        "material": "Кирпич - монолит",
+        "price": 7800000
+      },
+      "72928838": {
+        "url": "https://novosibirsk.n1.ru/view/72928838/",
+        "area": 61.0,
+        "apartment_floor": 14,
+        "max_floor": 19,
+        "material": "Кирпич - монолит",
+        "price": 7000000
+      },
+      "73866593": {
+        "url": "https://novosibirsk.n1.ru/view/73866593/",
+        "area": 42.0,
+        "apartment_floor": 4,
+        "max_floor": 25,
+        "material": "",
+        "price": 4750000
+      },
+      "73803139": {
+        "url": "https://novosibirsk.n1.ru/view/73803139/",
+        "area": 49.0,
+        "apartment_floor": 11,
+        "max_floor": 18,
+        "material": "Кирпич",
+        "price": 6400000
+      },
+      "70293424": {
+        "url": "https://novosibirsk.n1.ru/view/70293424/",
+        "area": 38.0,
+        "apartment_floor": 19,
+        "max_floor": 19,
+        "material": "Кирпич",
+        "price": 4200000
+      },
+      "73173085": {
+        "url": "https://novosibirsk.n1.ru/view/73173085/",
+        "area": 26.0,
+        "apartment_floor": 10,
+        "max_floor": 17,
+        "material": "Кирпич - монолит",
+        "price": 3200000
+      },
+      "72521410": {
+        "url": "https://novosibirsk.n1.ru/view/72521410/",
+        "area": 82.0,
+        "apartment_floor": 3,
+        "max_floor": 17,
+        "material": "Кирпич - монолит",
+        "price": 6533000
+      }
+    }
+  },
+  "341291": {
+    "search_url": "https://novosibirsk.n1.ru/search/?addresses%5B0%5D%5Bstreet_id%5D=864344&addresses%5B0%5D%5Bhouse_number%5D=67&deal_type=sell",
+    "year": 2009,
+    "address": "Горский микрорайон, 67",
+    "lon": "82.9346",
+    "lat": "55.0415",
+    "flats": {
+      "73716366": {
+        "url": "https://novosibirsk.n1.ru/view/73716366/",
+        "area": 41.0,
+        "apartment_floor": 1,
+        "max_floor": 17,
+        "material": "Монолит",
+        "price": 4100000
+      },
+      "73123360": {
+        "url": "https://novosibirsk.n1.ru/view/73123360/",
+        "area": 36.0,
+        "apartment_floor": 6,
+        "max_floor": 17,
+        "material": "Монолит",
+        "price": 3600000
+      },
+      "73768648": {
+        "url": "https://novosibirsk.n1.ru/view/73768648/",
+        "area": 41.0,
+        "apartment_floor": 2,
+        "max_floor": 17,
+        "material": "Монолит",
+        "price": 4250000
+      },
+      "73083908": {
+        "url": "https://novosibirsk.n1.ru/view/73083908/",
+        "area": 36.0,
+        "apartment_floor": 12,
+        "max_floor": 16,
+        "material": "Монолит",
+        "price": 3650000
+      },
+      "73816587": {
+        "url": "https://novosibirsk.n1.ru/view/73816587/",
+        "area": 37.0,
+        "apartment_floor": 12,
+        "max_floor": 17,
+        "material": "Кирпич - монолит",
+        "price": 4300000
+      }
+    }
+  },
+  "569706": {
+    "search_url": "https://novosibirsk.n1.ru/search/?addresses%5B0%5D%5Bstreet_id%5D=865074&addresses%5B0%5D%5Bhouse_number%5D=166&deal_type=sell",
+    "year": 2015,
+    "address": "Петухова, 166",
+    "lon": "82.9346",
+    "lat": "55.0415",
+    "flats": {
+      "73159821": {
+        "url": "https://novosibirsk.n1.ru/view/73159821/",
+        "area": 32.0,
+        "apartment_floor": 1,
+        "max_floor": 10,
+        "material": "Панель",
+        "price": 2800000
+      },
+      "73038568": {
+        "url": "https://novosibirsk.n1.ru/view/73038568/",
+        "area": 32.0,
+        "apartment_floor": 1,
+        "max_floor": 10,
+        "material": "Панель",
+        "price": 2600000
+      },
+      "73083857": {
+        "url": "https://novosibirsk.n1.ru/view/73083857/",
+        "area": 32.0,
+        "apartment_floor": 1,
+        "max_floor": 10,
+        "material": "Панель",
+        "price": 2800000
+      },
+      "73849703": {
+        "url": "https://novosibirsk.n1.ru/view/73849703/",
+        "area": 37.0,
+        "apartment_floor": 9,
+        "max_floor": 10,
+        "material": "Панель",
+        "price": 2490000
+      },
+      "73173998": {
+        "url": "https://novosibirsk.n1.ru/view/73173998/",
+        "area": 32.0,
+        "apartment_floor": 10,
+        "max_floor": 10,
+        "material": "Панель",
+        "price": 2590000
+      },
+      "73883813": {
+        "url": "https://novosibirsk.n1.ru/view/73883813/",
+        "area": 34.0,
+        "apartment_floor": 3,
+        "max_floor": 10,
+        "material": "Панель",
+        "price": 2650000
+      },
+      "73737352": {
+        "url": "https://novosibirsk.n1.ru/view/73737352/",
+        "area": 39.0,
+        "apartment_floor": 2,
+        "max_floor": 10,
+        "material": "Панель",
+        "price": 2710000
+      },
+      "73121206": {
+        "url": "https://novosibirsk.n1.ru/view/73121206/",
+        "area": 34.0,
+        "apartment_floor": 10,
+        "max_floor": 10,
+        "material": "Панель",
+        "price": 2590000
+      },
+      "72793583": {
+        "url": "https://novosibirsk.n1.ru/view/72793583/",
+        "area": 36.0,
+        "apartment_floor": 9,
+        "max_floor": 10,
+        "material": "Панель",
+        "price": 2600000
+      },
+      "73048135": {
+        "url": "https://novosibirsk.n1.ru/view/73048135/",
+        "area": 32.0,
+        "apartment_floor": 1,
+        "max_floor": 10,
+        "material": "Панель",
+        "price": 2800000
+      }
+    }
+  },
+  "326581": {
+    "search_url": "https://novosibirsk.n1.ru/search/?addresses%5B0%5D%5Bstreet_id%5D=864351&addresses%5B0%5D%5Bhouse_number%5D=104&deal_type=sell",
+    "year": 1977,
+    "address": "Максима Горького, 104",
+    "lon": "82.9346",
+    "lat": "55.0415",
+    "flats": {
+      "73851342": {
+        "url": "https://novosibirsk.n1.ru/view/73851342/",
+        "area": 57.0,
+        "apartment_floor": 9,
+        "max_floor": 9,
+        "material": "Кирпич",
+        "price": 7200000
+      },
+      "73064445": {
+        "url": "https://novosibirsk.n1.ru/view/73064445/",
+        "area": 65.0,
+        "apartment_floor": 2,
+        "max_floor": 9,
+        "material": "Кирпич",
+        "price": 6260000
+      }
+    }
+  },
+  "339091": {
+    "search_url": "https://novosibirsk.n1.ru/search/?addresses%5B0%5D%5Bstreet_id%5D=865282&addresses%5B0%5D%5Bhouse_number%5D=37&deal_type=sell",
+    "year": 1995,
+    "address": "Серебренниковская, 37",
+    "lon": "82.9346",
+    "lat": "55.0415",
+    "flats": {
+      "73768910": {
+        "url": "https://novosibirsk.n1.ru/view/73768910/",
+        "area": 61.0,
+        "apartment_floor": 4,
+        "max_floor": 9,
+        "material": "Кирпич",
+        "price": 7650000
+      },
+      "73717174": {
+        "url": "https://novosibirsk.n1.ru/view/73717174/",
+        "area": 323.0,
+        "apartment_floor": 8,
+        "max_floor": 9,
+        "material": "Кирпич",
+        "price": 30000000
+      },
+      "71785110": {
+        "url": "https://novosibirsk.n1.ru/view/71785110/",
+        "area": 152.0,
+        "apartment_floor": 8,
+        "max_floor": 9,
+        "material": "Кирпич",
+        "price": 15900000
+      },
+      "73745430": {
+        "url": "https://novosibirsk.n1.ru/view/73745430/",
+        "area": 61.0,
+        "apartment_floor": 4,
+        "max_floor": 9,
+        "material": "Кирпич",
+        "price": 7500000
+      }
+    }
+  },
+  "327082": {
+    "search_url": "https://novosibirsk.n1.ru/search/?addresses%5B0%5D%5Bstreet_id%5D=864816&addresses%5B0%5D%5Bhouse_number%5D=9&deal_type=sell",
+    "year": 1958,
+    "address": "Ленина, 9",
+    "lon": "82.9346",
+    "lat": "55.0415",
+    "flats": {
+      "73847475": {
+        "url": "https://novosibirsk.n1.ru/view/73847475/",
+        "area": 65.0,
+        "apartment_floor": 3,
+        "max_floor": 5,
+        "material": "Кирпич",
+        "price": 7600000
+      },
+      "73900051": {
+        "url": "https://novosibirsk.n1.ru/view/73900051/",
+        "area": 63.0,
+        "apartment_floor": 3,
+        "max_floor": 5,
+        "material": "Кирпич",
+        "price": 7600000
+      },
+      "73883117": {
+        "url": "https://novosibirsk.n1.ru/view/73883117/",
+        "area": 63.0,
+        "apartment_floor": 5,
+        "max_floor": 5,
+        "material": "Кирпич",
+        "price": 7000000
+      },
+      "73263070": {
+        "url": "https://novosibirsk.n1.ru/view/73263070/",
+        "area": 64.0,
+        "apartment_floor": 3,
+        "max_floor": 5,
+        "material": "Кирпич",
+        "price": 7600000
+      },
+      "73148599": {
+        "url": "https://novosibirsk.n1.ru/view/73148599/",
+        "area": 65.0,
+        "apartment_floor": 3,
+        "max_floor": 5,
+        "material": "Кирпич",
+        "price": 7600000
+      }
+    }
+  },
+  "579630": {
+    "search_url": "https://novosibirsk.n1.ru/search/?addresses%5B0%5D%5Bstreet_id%5D=864752&addresses%5B0%5D%5Bhouse_number%5D=157&deal_type=sell",
+    "year": 1959,
+    "address": "Красный проспект, 157",
+    "lon": "82.9346",
+    "lat": "55.0415",
+    "flats": {
+      "73665642": {
+        "url": "https://novosibirsk.n1.ru/view/73665642/",
+        "area": 72.0,
+        "apartment_floor": 4,
+        "max_floor": 7,
+        "material": "Кирпич",
+        "price": 7900000
+      },
+      "73854017": {
+        "url": "https://novosibirsk.n1.ru/view/73854017/",
+        "area": 80.0,
+        "apartment_floor": 3,
+        "max_floor": 7,
+        "material": "Кирпич",
+        "price": 6850000
+      },
+      "73609764": {
+        "url": "https://novosibirsk.n1.ru/view/73609764/",
+        "area": 95.0,
+        "apartment_floor": 3,
+        "max_floor": 7,
+        "material": "Кирпич",
+        "price": 12000000
+      },
+      "73739546": {
+        "url": "https://novosibirsk.n1.ru/view/73739546/",
+        "area": 47.0,
+        "apartment_floor": 6,
+        "max_floor": 6,
+        "material": "Кирпич",
+        "price": 5690000
+      },
+      "73732596": {
+        "url": "https://novosibirsk.n1.ru/view/73732596/",
+        "area": 49.0,
+        "apartment_floor": 2,
+        "max_floor": 6,
+        "material": "Кирпич",
+        "price": 5650000
+      },
+      "73633063": {
+        "url": "https://novosibirsk.n1.ru/view/73633063/",
+        "area": 94.0,
+        "apartment_floor": 5,
+        "max_floor": 7,
+        "material": "Кирпич",
+        "price": 7700000
+      }
+    }
+  },
+  "365479": {
+    "search_url": "https://novosibirsk.n1.ru/search/?addresses%5B0%5D%5Bstreet_id%5D=865373&addresses%5B0%5D%5Bhouse_number%5D=96%2F2&deal_type=sell",
+    "year": 2016,
+    "address": "Сухарная, 96/2",
+    "lon": "82.9346",
+    "lat": "55.0415",
+    "flats": {
+      "73816114": {
+        "url": "https://novosibirsk.n1.ru/view/73816114/",
+        "area": 29.0,
+        "apartment_floor": 9,
+        "max_floor": 16,
+        "material": "Монолит",
+        "price": 3600000
+      },
+      "73786914": {
+        "url": "https://novosibirsk.n1.ru/view/73786914/",
+        "area": 105.0,
+        "apartment_floor": 17,
+        "max_floor": 17,
+        "material": "Монолит",
+        "price": 8990000
+      },
+      "73747057": {
+        "url": "https://novosibirsk.n1.ru/view/73747057/",
+        "area": 90.0,
+        "apartment_floor": 12,
+        "max_floor": 17,
+        "material": "Монолит",
+        "price": 9500000
+      },
+      "73080599": {
+        "url": "https://novosibirsk.n1.ru/view/73080599/",
+        "area": 26.0,
+        "apartment_floor": 11,
+        "max_floor": 17,
+        "material": "Кирпич - монолит",
+        "price": 3580000
+      },
+      "73700844": {
+        "url": "https://novosibirsk.n1.ru/view/73700844/",
+        "area": 29.0,
+        "apartment_floor": 9,
+        "max_floor": 17,
+        "material": "Монолит",
+        "price": 3600000
+      },
+      "73884752": {
+        "url": "https://novosibirsk.n1.ru/view/73884752/",
+        "area": 105.0,
+        "apartment_floor": 17,
+        "max_floor": 17,
+        "material": "Кирпич",
+        "price": 9000000
+      },
+      "73881808": {
+        "url": "https://novosibirsk.n1.ru/view/73881808/",
+        "area": 59.0,
+        "apartment_floor": 9,
+        "max_floor": 17,
+        "material": "Кирпич",
+        "price": 5550000
+      },
+      "73807309": {
+        "url": "https://novosibirsk.n1.ru/view/73807309/",
+        "area": 40.0,
+        "apartment_floor": 16,
+        "max_floor": 17,
+        "material": "Кирпич",
+        "price": 4980000
+      },
+      "72760635": {
+        "url": "https://novosibirsk.n1.ru/view/72760635/",
+        "area": 92.0,
+        "apartment_floor": 6,
+        "max_floor": 17,
+        "material": "Кирпич - монолит",
+        "price": 9300000
+      },
+      "73725640": {
+        "url": "https://novosibirsk.n1.ru/view/73725640/",
+        "area": 103.0,
+        "apartment_floor": 12,
+        "max_floor": 17,
+        "material": "Кирпич - монолит",
+        "price": 8100000
+      },
+      "73697214": {
+        "url": "https://novosibirsk.n1.ru/view/73697214/",
+        "area": 25.0,
+        "apartment_floor": 9,
+        "max_floor": 17,
+        "material": "Кирпич - монолит",
+        "price": 3560000
+      },
+      "72680361": {
+        "url": "https://novosibirsk.n1.ru/view/72680361/",
+        "area": 85.0,
+        "apartment_floor": 2,
+        "max_floor": 17,
+        "material": "Кирпич - монолит",
+        "price": 6950000
+      }
+    }
+  },
+  "355180": {
+    "search_url": "https://novosibirsk.n1.ru/search/?addresses%5B0%5D%5Bstreet_id%5D=864939&addresses%5B0%5D%5Bhouse_number%5D=63%2F1&deal_type=sell",
+    "year": 2014,
+    "address": "Некрасова, 63/1",
+    "lon": "82.9346",
+    "lat": "55.0415",
+    "flats": {
+      "73360052": {
+        "url": "https://novosibirsk.n1.ru/view/73360052/",
+        "area": 59.0,
+        "apartment_floor": 10,
+        "max_floor": 17,
+        "material": "Кирпич - монолит",
+        "price": 7199000
+      },
+      "72137544": {
+        "url": "https://novosibirsk.n1.ru/view/72137544/",
+        "area": 144.0,
+        "apartment_floor": 17,
+        "max_floor": 17,
+        "material": "Кирпич",
+        "price": 14100000
+      },
+      "72714406": {
+        "url": "https://novosibirsk.n1.ru/view/72714406/",
+        "area": 85.0,
+        "apartment_floor": 4,
+        "max_floor": 17,
+        "material": "Кирпич - монолит",
+        "price": 8100000
+      },
+      "73845893": {
+        "url": "https://novosibirsk.n1.ru/view/73845893/",
+        "area": 150.0,
+        "apartment_floor": 17,
+        "max_floor": 18,
+        "material": "Кирпич",
+        "price": 14100000
+      },
+      "73110808": {
+        "url": "https://novosibirsk.n1.ru/view/73110808/",
+        "area": 105.0,
+        "apartment_floor": 17,
+        "max_floor": 18,
+        "material": "Кирпич",
+        "price": 9880000
+      },
+      "72458765": {
+        "url": "https://novosibirsk.n1.ru/view/72458765/",
+        "area": 69.0,
+        "apartment_floor": 7,
+        "max_floor": 18,
+        "material": "Кирпич",
+        "price": 7700000
+      },
+      "73105420": {
+        "url": "https://novosibirsk.n1.ru/view/73105420/",
+        "area": 105.0,
+        "apartment_floor": 17,
+        "max_floor": 18,
+        "material": "Кирпич - монолит",
+        "price": 9100000
+      }
+    }
+  }
+}
